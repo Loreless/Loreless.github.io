@@ -33,3 +33,12 @@ h1 {
   text-align: center;
   font-size: 54px;
 }
+
+.logo {
+  width: 400px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
